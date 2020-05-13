@@ -7,4 +7,6 @@
 
 3、Android开源项目及库：https://github.com/Tim9Liu9/TimLiu-Android
 
+4、Android开发技术前线：https://github.com/hehonghui/android-tech-frontier
+
 
